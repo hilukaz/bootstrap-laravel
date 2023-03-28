@@ -10,3 +10,4 @@ npm run dev //roda o vite
 
 php artisan serve //roda o server php
 
+git clone --branch layout https://github.com/hilukaz/bootstrap-laravel
